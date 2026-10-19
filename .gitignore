@@ -1,0 +1,17 @@
+/storage/*
+!/storage/.htaccess
+/dist/uploads/*
+!/dist/uploads/.htaccess
+/node_modules/
+*.tar.gz
+/.qa/
+/backups/*
+!/backups/.htaccess
+/.openai/
+/.env
+/.env.*
+!/.env.example
+*.sqlite
+*.sqlite-journal
+*.sqlite-wal
+*.sqlite-shm

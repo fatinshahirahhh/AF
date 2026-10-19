@@ -1,0 +1,54 @@
+{
+    "shopName": "AF CULTURED",
+    "phone": "+60102356513",
+    "instagram": "https://www.instagram.com/af_cultured.my/",
+    "tiktok": "https://www.tiktok.com/@af_cultured",
+    "products": [
+        {
+            "id": "growing-in-silence-black",
+            "name": "Growing in Silence — Black",
+            "category": "Tops",
+            "price": 79,
+            "colors": [
+                "Black"
+            ],
+            "sizes": [
+                "S",
+                "M",
+                "L",
+                "XL"
+            ],
+            "description": "AF CULTURED black T-shirt with a front logo and Growing in Silence back graphic. View the front, back and combined design photos. Available in sizes S, M, L and XL at RM79. Contact the seller to confirm availability and order.",
+            "image": "assets/black-front.jpg",
+            "images": [
+                "assets/black-front.jpg",
+                "assets/black-back.jpg",
+                "assets/black-overview.jpg"
+            ],
+            "quantity": 12
+        },
+        {
+            "id": "growing-in-silence-cream",
+            "name": "Growing in Silence — Cream",
+            "category": "Tops",
+            "price": 79,
+            "colors": [
+                "Cream"
+            ],
+            "sizes": [
+                "S",
+                "M",
+                "L",
+                "XL"
+            ],
+            "description": "AF CULTURED cream T-shirt with a front logo and Growing in Silence back graphic. View the front, back and combined design photos. Available in sizes S, M, L and XL at RM79. Contact the seller to confirm availability and order.",
+            "image": "assets/cream-front.jpg",
+            "images": [
+                "assets/cream-front.jpg",
+                "assets/cream-back.jpg",
+                "assets/cream-overview.jpg"
+            ],
+            "quantity": 5
+        }
+    ]
+}
